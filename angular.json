@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gitAnalyse"
+    }
+  },
+  "defaultProject": "gitAnalyse",
+  "cli": {
+    "analytics": false
+  }
 }
